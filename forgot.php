@@ -77,7 +77,7 @@ letter-spacing: 1px;
       </div>-->
     </nav>
     
-        <div class="container">
+        <div class="contain">
             <!-- Codrops top bar -->
             
             <section>				
